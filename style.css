@@ -1,0 +1,42 @@
+
+header{
+
+    background-color:rgb(47, 46, 46);
+    color: white;
+    padding:8px;
+}
+h4{
+    color: red;
+}
+h1{
+    color:rgb(32, 94, 165);
+}
+
+
+
+
+
+
+
+/*ima css */
+img{
+    border-radius: 50%;
+}
+nav{
+    text-align: center;
+    display: flex;
+    background-color: rgb(212, 218, 245);
+}
+
+.content{
+    
+
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.logo3{
+    margin-left: 100px;
+}
+.logo1{
+    margin-left: 100px;
+}
