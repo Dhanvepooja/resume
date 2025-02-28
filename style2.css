@@ -1,0 +1,25 @@
+.first{
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+    position:absolute;
+    left: 0;
+    top: 0;
+}
+.second{
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    border-radius: 50%;
+}
+.thrid{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}

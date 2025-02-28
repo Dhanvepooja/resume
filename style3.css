@@ -1,0 +1,34 @@
+ .first img{
+    float: right;
+    margin-right: 150px;
+
+}
+.first{
+    margin-top: 100px;
+}
+.first p{
+width: 50%;
+margin-left: 50px;
+  text-align: justify;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.second img{
+    float: left;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.second{
+    margin-top: 100px;
+}
+.second p{
+    width: 70%;
+    text-align: justify;
+    
+}
+hr{
+    margin-top: 150px;
+    width: 10%;
+    height: 2px;
+    background-color: rgb(110, 175, 236);
+ 
+}

@@ -1,42 +1,33 @@
 
-header{
-
-    background-color:rgb(47, 46, 46);
-    color: white;
-    padding:8px;
-}
-h4{
-    color: red;
-}
-h1{
-    color:rgb(32, 94, 165);
-}
-
-
-
-
-
-
-
-/*ima css */
-img{
-    border-radius: 50%;
-}
-nav{
+body{
     text-align: center;
-    display: flex;
-    background-color: rgb(212, 218, 245);
+    background-color: aqua
+    ;
 }
 
-.content{
+
+.top{
+    height: 100px;
+    width: 400px;
+    background-color: orangered;
+}
+.middel{
+    height: 100px;
+    width: 400px;
+    background-color: rgb(255, 243, 243);
+    text-align: center;
+}
+.bot{
+    height: 100px;
+    width: 400px;
+    background-color: green;
+}
     
 
-    margin-left: 100px;
-    margin-right: 100px;
-}
-.logo3{
-    margin-left: 100px;
-}
-.logo1{
-    margin-left: 100px;
+.line{
+   border-left-style: solid;
+   border-width: 10px;
+   height: 600px;
+   margin-left: 540px;
+   margin-top: 100px;
 }
